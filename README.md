@@ -1,3 +1,1 @@
 # git-demo
-
-Some content
